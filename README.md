@@ -1,7 +1,7 @@
 # Zen Music Player Support                                                                                                                                                                                   
                                                                                                                                                                                                                
   ## Contact                                                                                                                                                                                                   
-  For questions or issues, email: [your-email@example.com]                                                                                                                                                     
+  For questions or issues, email: zenmusicplayerapp@gmail.com                                                                                                                                                   
                                                                                                                                                                                                                
   ## FAQ                                                                                                                                                                                                       
                                                                                                                                                                                                                
