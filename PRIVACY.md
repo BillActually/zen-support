@@ -1,0 +1,18 @@
+# Zen Music Player - Privacy Policy                                                                                                                                                                          
+                                                                                                                                                                                                               
+  **Last updated: February 2026**                                                                                                                                                                              
+                                                                                                                                                                                                               
+  ## Overview                                                                                                                                                                                                  
+  Zen Music Player is designed with your privacy in mind. We do not collect, store, or transmit any personal data.                                                                                             
+                                                                                                                                                                                                               
+  ## Data Collection                                                                                                                                                                                           
+  **We do not collect any data.** Your music library, playlists, and listening history stay entirely on your device.                                                                                           
+                                                                                                                                                                                                               
+  ## Network Usage                                                                                                                                                                                             
+  The app includes a local Wi-Fi transfer feature that operates only on your local network to transfer music files from your computer. No data is sent to external servers.                                    
+                                                                                                                                                                                                               
+  ## Third-Party Services                                                                                                                                                                                      
+  This app does not use any third-party analytics, advertising, or tracking services.                                                                                                                          
+                                                                                                                                                                                                               
+  ## Contact                                                                                                                                                                                                   
+  If you have questions about this privacy policy, contact: zenmusicplayerapp@gmail.com
